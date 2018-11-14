@@ -4,3 +4,4 @@ Adding new line from branch testing on 3:28PM, 13/11/2018
 Adding new lines in test.txt from master on 3:31Pm 13/11/2018
 Adding new lines in test.txt from hotfix branch on 4:01 13/11/2018
 Adding new lines in test.txt from hotfix branch on 4:01 14/11/2018
+Adding new line 4:02 14/11/2018
