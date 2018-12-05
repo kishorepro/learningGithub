@@ -3,6 +3,8 @@ if grade >= 90:
    print ("A")
 elif grade >= 80:
    print ("B")
+elif grade >= 75:
+   print ("BC")
 elif grade >= 85:
    print ("CB")
 elif grade >= 70:
