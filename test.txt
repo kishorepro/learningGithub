@@ -7,3 +7,5 @@ Adding new lines in test.txt from hotfix branch on 4:01 14/11/2018
 Adding new line 4:02 14/11/2018
 Adding new line at 12:51 4/12/2018
 Adding new line at 12:52 4/12/2018
+Adding new line at 12:55 4/12/2018
+Adding new line at 1:15 4/12/2018
